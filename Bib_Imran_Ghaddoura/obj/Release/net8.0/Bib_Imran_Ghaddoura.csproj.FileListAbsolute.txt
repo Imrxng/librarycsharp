@@ -1,0 +1,14 @@
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\bin\Release\net8.0\Bib_Imran_Ghaddoura.exe
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\bin\Release\net8.0\Bib_Imran_Ghaddoura.deps.json
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\bin\Release\net8.0\Bib_Imran_Ghaddoura.runtimeconfig.json
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\bin\Release\net8.0\Bib_Imran_Ghaddoura.dll
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\bin\Release\net8.0\Bib_Imran_Ghaddoura.pdb
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\Bib_Imran_Ghaddoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\Bib_Imran_Ghaddoura.AssemblyInfoInputs.cache
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\Bib_Imran_Ghaddoura.AssemblyInfo.cs
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\Bib_Imran_Ghaddoura.csproj.CoreCompileInputs.cache
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\Bib_Imran_Ghaddoura.dll
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\refint\Bib_Imran_Ghaddoura.dll
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\Bib_Imran_Ghaddoura.pdb
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\Bib_Imran_Ghaddoura.genruntimeconfig.cache
+C:\Users\imgha\Documents\AP Hogeschool\OOP\Bib_Imran_Ghaddoura\Bib_Imran_Ghaddoura\obj\Release\net8.0\ref\Bib_Imran_Ghaddoura.dll
